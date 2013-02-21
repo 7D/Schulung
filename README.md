@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Schulung
+=======
+schulung
+>>>>>>> marc
 ========

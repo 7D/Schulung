@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Line A
 Line B
 Line C
+=======
+Line BB
+Line C
+Line D
+>>>>>>> marc
